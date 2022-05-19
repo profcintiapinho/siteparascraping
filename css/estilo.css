@@ -1,0 +1,35 @@
+body{
+    background-color: #7FFFD4;
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    font-size: 2em;
+    padding: 3%;
+    background-color: #20B2AA;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h2{
+    font-size: 1.8em;
+    padding: 3%;
+    font-weight: bolder;
+    
+}
+
+p{
+ font-size: 1.5em;
+ font-weight: bold;
+ text-align: center;
+ font-weight: 1.5;
+ text-decoration: underline;
+ margin-top: 1%;
+}
+
+ul{
+    list-style-type: square;
+    line-height: 1.5;
+    margin-top: 2%;
+}
